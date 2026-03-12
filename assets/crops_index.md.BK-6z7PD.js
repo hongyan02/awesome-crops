@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r}from"./chunks/framework.CaiDwmc7.js";const m=JSON.parse('{"title":"简介","description":"","frontmatter":{"title":"简介"},"headers":[],"relativePath":"crops/index.md","filePath":"crops/index.md"}'),a={name:"crops/index.md"};function o(n,s,c,i,d,p){return t(),r("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};
