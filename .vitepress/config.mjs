@@ -24,6 +24,10 @@ export default defineConfig({
             items: [
               { text: "简介", link: "/crops/wheat/" },
               {
+                text: "小麦的加工及其副产物",
+                link: "/crops/wheat/by-product",
+              },
+              {
                 text: "次粉",
                 items: [{ text: "什么是次粉？", link: "/crops/wheat/Midds/" }],
               },
