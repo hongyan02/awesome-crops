@@ -3,7 +3,6 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
-  lastUpdated: true,
 
   title: "Awesome Crops",
   description: "Crops Trading Timeproof",
