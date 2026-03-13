@@ -4,6 +4,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Awesome Crops",
   description: "Crops Trading Timeproof",
+  head: [
+    ["meta", { name: "baidu-site-verification", content: "codeva-6QTR394Cjf" }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
