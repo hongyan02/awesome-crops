@@ -28,6 +28,10 @@ export default defineConfig({
                 link: "/crops/wheat/processing",
               },
               {
+                text: "小麦粉(面粉)",
+                link: "/crops/wheat/wheat-flour",
+              },
+              {
                 text: "副产物",
                 link: "/crops/wheat/by-products",
               },
