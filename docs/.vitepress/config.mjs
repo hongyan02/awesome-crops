@@ -24,8 +24,12 @@ export default defineConfig({
             items: [
               { text: "简介", link: "/crops/wheat/" },
               {
-                text: "小麦的加工及其副产物",
-                link: "/crops/wheat/by-product",
+                text: "加工制粉流程",
+                link: "/crops/wheat/processing",
+              },
+              {
+                text: "副产物",
+                link: "/crops/wheat/by-products",
               },
               {
                 text: "次粉",
