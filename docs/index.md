@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "Awesome Crops"
-  text: "Crops Trading Timeproof"
-  tagline: My great project tagline
+  name: "了不起的作物"
+  text: "农作物、贸易信息一站式查看"
+  tagline: 您的农作物交易全面指南
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 什么是农作物？
+      link: /crops/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 小麦
+      link: /crops/wheat/
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
