@@ -22,7 +22,7 @@ export default defineConfig({
           "/crops/": [
             {
               text: "农作物",
-              collapsed: flase,
+              collapsed: false,
               items: [
                 { text: "简介", link: "/crops/" },
                 {
