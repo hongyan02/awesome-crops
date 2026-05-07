@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.CMX7UUIo.js";const p=JSON.parse('{"title":"简介","description":"","frontmatter":{"title":"简介"},"headers":[],"relativePath":"flour-factory/index.md","filePath":"flour-factory/index.md"}'),a={name:"flour-factory/index.md"};function o(n,c,s,i,d,f){return t(),r("div")}const _=e(a,[["render",o]]);export{p as __pageData,_ as default};
