@@ -140,7 +140,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/hongyan02/awesome-crops" }],
     search: {
       provider: "local",
     },
